@@ -55,7 +55,7 @@ function Pricing() {
                                     <span className="text-base font-medium text-gray-500">/month</span>
                                 </div>
                                 <p className="mt-6 text-sm text-gray-500">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, quis at cupiditate cum velit dignissimos itaque deleniti repellendus consectetur nam enim consequatur. Harum iste fugiat quod porro excepturi. Assumenda, cupiditate!
                                 </p>
                                 <div className="mt-6">
                                     <button
